@@ -2,4 +2,5 @@
 <resources>
     <dimen name="margin_sixteen">16dp</dimen>
     <dimen name="text_size_twenty_five">25sp</dimen>
+    <dimen name="min_height">48dp</dimen>
 </resources>

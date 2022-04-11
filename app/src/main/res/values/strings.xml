@@ -4,4 +4,5 @@
     <string name="str_height">Height in Meter </string>
     <string name="str_button">calculate</string>
     <string name="str_image_desc">appropriate image according to your bmi</string>
+    <string name="default_text_bmi">20</string>
 </resources>
